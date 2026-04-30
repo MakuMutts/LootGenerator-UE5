@@ -1,0 +1,3 @@
+
+#include "LootMapConfig.h"
+

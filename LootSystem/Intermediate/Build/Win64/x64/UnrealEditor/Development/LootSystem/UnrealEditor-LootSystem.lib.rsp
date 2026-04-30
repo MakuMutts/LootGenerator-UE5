@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-LootSystem.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/kazmi/Documents/Unreal Projects/Diplom/Intermediate/Build/Win64/x64/DiplomEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/kazmi/Documents/Unreal Projects/Diplom/Plugins/LootSystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/LootSystem/Module.LootSystem.cpp.obj"
+"C:/Users/kazmi/Documents/Unreal Projects/Diplom/Plugins/LootSystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/LootSystem/ArmorLootItem.cpp.obj"
+"C:/Users/kazmi/Documents/Unreal Projects/Diplom/Plugins/LootSystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/LootSystem/LootFactory.cpp.obj"
+"C:/Users/kazmi/Documents/Unreal Projects/Diplom/Plugins/LootSystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/LootSystem/LootGenerator.cpp.obj"
+"C:/Users/kazmi/Documents/Unreal Projects/Diplom/Plugins/LootSystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/LootSystem/LootItemBase.cpp.obj"
+"C:/Users/kazmi/Documents/Unreal Projects/Diplom/Plugins/LootSystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/LootSystem/LootManager.cpp.obj"
+"C:/Users/kazmi/Documents/Unreal Projects/Diplom/Plugins/LootSystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/LootSystem/LootMapConfig.cpp.obj"
+"C:/Users/kazmi/Documents/Unreal Projects/Diplom/Plugins/LootSystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/LootSystem/LootPickupActor.cpp.obj"
+"C:/Users/kazmi/Documents/Unreal Projects/Diplom/Plugins/LootSystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/LootSystem/LootSpawnPoint.cpp.obj"
+"C:/Users/kazmi/Documents/Unreal Projects/Diplom/Plugins/LootSystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/LootSystem/LootSystem.cpp.obj"
+"C:/Users/kazmi/Documents/Unreal Projects/Diplom/Plugins/LootSystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/LootSystem/WeaponLootItem.cpp.obj"
+"C:/Users/kazmi/Documents/Unreal Projects/Diplom/Plugins/LootSystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/LootSystem/Default.rc2.res"
+/OUT:"C:/Users/kazmi/Documents/Unreal Projects/Diplom/Plugins/LootSystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/LootSystem/UnrealEditor-LootSystem.lib"

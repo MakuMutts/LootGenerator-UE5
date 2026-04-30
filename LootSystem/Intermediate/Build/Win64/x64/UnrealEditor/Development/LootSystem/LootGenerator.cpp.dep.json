@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\kazmi\\documents\\unreal projects\\diplom\\plugins\\lootsystem\\source\\lootsystem\\private\\lootgenerator.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\kazmi\\documents\\unreal projects\\diplom\\intermediate\\build\\win64\\x64\\diplomeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\kazmi\\documents\\unreal projects\\diplom\\plugins\\lootsystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\lootsystem\\definitions.lootsystem.h",
+            "c:\\users\\kazmi\\documents\\unreal projects\\diplom\\plugins\\lootsystem\\source\\lootsystem\\public\\lootgenerator.h",
+            "c:\\users\\kazmi\\documents\\unreal projects\\diplom\\plugins\\lootsystem\\source\\lootsystem\\public\\loottypes.h",
+            "c:\\users\\kazmi\\documents\\unreal projects\\diplom\\plugins\\lootsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\lootsystem\\uht\\loottypes.generated.h",
+            "c:\\users\\kazmi\\documents\\unreal projects\\diplom\\plugins\\lootsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\lootsystem\\uht\\lootgenerator.generated.h",
+            "c:\\users\\kazmi\\documents\\unreal projects\\diplom\\plugins\\lootsystem\\source\\lootsystem\\public\\lootitembase.h",
+            "c:\\users\\kazmi\\documents\\unreal projects\\diplom\\plugins\\lootsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\lootsystem\\uht\\lootitembase.generated.h",
+            "c:\\users\\kazmi\\documents\\unreal projects\\diplom\\plugins\\lootsystem\\source\\lootsystem\\public\\lootfactory.h",
+            "c:\\users\\kazmi\\documents\\unreal projects\\diplom\\plugins\\lootsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\lootsystem\\uht\\lootfactory.generated.h",
+            "c:\\users\\kazmi\\documents\\unreal projects\\diplom\\plugins\\lootsystem\\source\\lootsystem\\public\\lootmapconfig.h",
+            "c:\\users\\kazmi\\documents\\unreal projects\\diplom\\plugins\\lootsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\lootsystem\\uht\\lootmapconfig.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

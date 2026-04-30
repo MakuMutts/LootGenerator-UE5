@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\kazmi\\documents\\unreal projects\\diplom\\plugins\\lootsystem\\source\\lootsystem\\private\\lootspawnpoint.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\kazmi\\documents\\unreal projects\\diplom\\intermediate\\build\\win64\\x64\\diplomeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\kazmi\\documents\\unreal projects\\diplom\\plugins\\lootsystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\lootsystem\\definitions.lootsystem.h",
+            "c:\\users\\kazmi\\documents\\unreal projects\\diplom\\plugins\\lootsystem\\source\\lootsystem\\public\\lootspawnpoint.h",
+            "c:\\users\\kazmi\\documents\\unreal projects\\diplom\\plugins\\lootsystem\\source\\lootsystem\\public\\loottypes.h",
+            "c:\\users\\kazmi\\documents\\unreal projects\\diplom\\plugins\\lootsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\lootsystem\\uht\\loottypes.generated.h",
+            "c:\\users\\kazmi\\documents\\unreal projects\\diplom\\plugins\\lootsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\lootsystem\\uht\\lootspawnpoint.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

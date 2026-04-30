@@ -1,0 +1,27 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.LootSystem.cpp.obj": [
+			"ArmorLootItem.gen.cpp.obj",
+			"LootFactory.gen.cpp.obj",
+			"LootGenerator.gen.cpp.obj",
+			"LootItemBase.gen.cpp.obj",
+			"LootMapConfig.gen.cpp.obj",
+			"LootPickupActor.gen.cpp.obj",
+			"LootSpawnPoint.gen.cpp.obj",
+			"LootSystem.init.gen.cpp.obj",
+			"LootTypes.gen.cpp.obj",
+			"WeaponLootItem.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"ArmorLootItem.cpp.obj",
+			"LootFactory.cpp.obj",
+			"LootGenerator.cpp.obj",
+			"LootItemBase.cpp.obj",
+			"LootMapConfig.cpp.obj",
+			"LootPickupActor.cpp.obj",
+			"LootSpawnPoint.cpp.obj",
+			"LootSystem.cpp.obj",
+			"WeaponLootItem.cpp.obj"
+		]
+	}
+}
